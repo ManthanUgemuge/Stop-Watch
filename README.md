@@ -1,2 +1,2 @@
 # StopWatch
-Stop Watch Clean UI using JavaScript, HTML &amp; CSS 
+Stop Watch Clean UI using HTML &amp; CSS JavaScript, 
