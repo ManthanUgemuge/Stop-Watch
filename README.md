@@ -11,9 +11,9 @@ Stop Watch Clean UI using HTML, CSS &amp; JavaScript.
 
 ## How to use Project
 
-- Download or clone the repository
+- Download or clone the repository Website : 
 
 ```
-Website : https://manthanugemuge.github.io/StopWatch/
+https://manthanugemuge.github.io/StopWatch/
 ```
 Run Directly - https://manthanugemuge.github.io/StopWatch/
