@@ -15,4 +15,4 @@ Stop Watch Clean UI using HTML, CSS &amp; JavaScript.
 ```
 https://manthanugemuge.github.io/StopWatch/
 ```
-Run Directly - https://manthanugemuge.github.io/StopWatch/
+Run Directly - [StopWatch](https://manthanugemuge.github.io/StopWatch/)
