@@ -15,7 +15,7 @@ Stop Watch Clean UI using HTML, CSS &amp; JavaScript.
 ```
 https://manthanugemuge.github.io/StopWatch/
 ```
-Run Directly - [Live](https://manthanugemuge.github.io/StopWatch/)//[Download]()
+Run Directly - [Live](https://manthanugemuge.github.io/StopWatch/)//[Download](https://github.com/ManthanUgemuge/StopWatch/archive/refs/heads/main.zip)
 
 ## Contributing
 Pull requests are welcome, feel free to ```fork``` this repo.
