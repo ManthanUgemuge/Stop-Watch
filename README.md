@@ -1,6 +1,7 @@
 # StopWatch
 Stop Watch Clean UI using HTML, CSS &amp; JavaScript.
 
+## About The Project
 
 ## Tech Stacks Used :
 
