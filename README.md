@@ -2,6 +2,10 @@
 Stop Watch Clean UI using HTML, CSS &amp; JavaScript.
 
 ## About The Project
+Stop Watch has Basic Functionality :
+- Start
+- Pause
+- Stop
 
 ## Tech Stacks Used :
 
