@@ -2,7 +2,7 @@
 Stop Watch Clean UI using HTML, CSS &amp; JavaScript.
 
 ## About The Project
-Stop Watch Web Application using HTML, CAA & JavaScript. <br>
+Stop Watch Web Application using HTML, CSS & JavaScript. <br>
 Stop Watch has Basic Functionality :
 - Start
 - Pause
