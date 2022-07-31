@@ -19,9 +19,9 @@ Stop Watch has Basic Functionality :
 - Download or clone the repository Website : 
 
 ```
-https://manthanugemuge.github.io/StopWatch/
+https://manthanugemuge.github.io/Stop-Watch/
 ```
-Run Directly - [Live](https://manthanugemuge.github.io/StopWatch/)//[Download](https://github.com/ManthanUgemuge/StopWatch/archive/refs/heads/main.zip)
+Run Directly - [Live](https://manthanugemuge.github.io/Stop-Watch/)//[Download](https://github.com/ManthanUgemuge/Stop-Watch/archive/refs/heads/main.zip)
 
 ## Contributing
 Pull requests are welcome, feel free to ```fork``` this repo.
