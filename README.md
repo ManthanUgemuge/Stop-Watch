@@ -19,7 +19,7 @@ Stop Watch has Basic Functionality :
 - Download or clone the repository Website : 
 
 ```
-https://manthanugemuge.github.io/Stop-Watch/
+https://manthanugemuge.github.io/stop-watch/
 ```
 Run Directly - [Live](https://manthanugemuge.github.io/Stop-Watch/)//[Download](https://github.com/ManthanUgemuge/Stop-Watch/archive/refs/heads/main.zip)
 
